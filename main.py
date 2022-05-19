@@ -1,4 +1,4 @@
 basic.show_icon(IconNames.HEART)
 def on_forever():
-    pass
+    print("hovínko")
 basic.forever(on_forever)
